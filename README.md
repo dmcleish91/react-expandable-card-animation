@@ -4,7 +4,7 @@ This is a [React.js](https://reactjs.org/) project bootstrapped with [`create vi
 
 ## Getting Started
 
-First, run install the required packages:
+First, install the required packages:
 
 ```bash
 pnpm install
